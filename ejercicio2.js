@@ -23,7 +23,7 @@ const toy2 = {name: 'Rallo mcKing', price: 29};
   console.log('Precio 1: ' +  toy1.price + ' Precio 2: ' + toy2.price)
 
 ////1.4 Dado el siguiente javascript, actualiza el valor de la variable globalBasePrice a 25000 
-//y actualiza la propiedad finalPrice de todos los coches con el valor de su propiedad asePrice más el valor de la variable globalBasePrice.
+//y actualiza la propiedad finalPrice de todos los coches con el valor de su propiedad basePrice +  globalBasePrice.
 
 
 let globalBasePrice = 10000;
